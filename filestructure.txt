@@ -1,0 +1,19 @@
+|-- .firebaserc
+|-- .gitignore
+|-- firebase.json
+|-- images
+    |-- clear.png
+    |-- clouds.png
+    |-- drizzle.png
+    |-- humidity.png
+    |-- mist.png
+    |-- rain.png
+    |-- search.png
+    |-- snow.png
+    |-- wind.png
+|-- index.html
+|-- public
+    |-- 404.html
+    |-- index.html
+|-- README.md
+|-- style.css
